@@ -1,2 +1,2 @@
 # crepo
-chetna task repository
+task repository
